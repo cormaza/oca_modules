@@ -1,0 +1,219 @@
+[submodule "crm"]
+	path = crm
+	url = https://github.com/OCA/crm.git
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web
+[submodule "pos"]
+	path = pos
+	url = https://github.com/OCA/pos
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA/edi
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/OCA/timesheet
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/OCA/bank-statement-import
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/OCA/account-analytic
+[submodule "account-fiscal-rule"]
+	path = account-fiscal-rule
+	url = https://github.com/OCA/account-fiscal-rule
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting
+[submodule "credit-control"]
+	path = credit-control
+	url = https://github.com/OCA/credit-control
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/OCA/e-commerce
+[submodule "hr-expense"]
+	path = hr-expense
+	url = https://github.com/OCA/hr-expense
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA/product-attribute
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/OCA/sale-workflow
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow
+[submodule "wms"]
+	path = wms
+	url = https://github.com/OCA/wms
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA/account-closing
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA/account-payment
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = https://github.com/OCA/account-reconcile
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/OCA/bank-payment
+[submodule "business-requirement"]
+	path = business-requirement
+	url = https://github.com/OCA/business-requirement
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector
+[submodule "currency"]
+	path = currency
+	url = https://github.com/OCA/currency
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/OCA/fleet
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/OCA/geospatial
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr
+[submodule "hr-attendance"]
+	path = hr-attendance
+	url = https://github.com/OCA/hr-attendance
+[submodule "hr-holidays"]
+	path = hr-holidays
+	url = https://github.com/OCA/hr-holidays
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/OCA/maintenance
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/OCA/management-system
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/OCA/manufacture
+[submodule "manufacture-reporting"]
+	path = manufacture-reporting
+	url = https://github.com/OCA/manufacture-reporting
+[submodule "margin-analysis"]
+	path = margin-analysis
+	url = https://github.com/OCA/margin-analysis
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/OCA/multi-company
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/OCA/product-variant
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/OCA/project-reporting
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/OCA/report-print-send
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/OCA/rest-framework
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/OCA/sale-reporting
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/OCA/server-auth
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/OCA/server-brand
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env
+[submodule "social"]
+	path = social
+	url = https://github.com/OCA/social
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA/storage
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA/website
+[submodule "website-themes"]
+	path = website-themes
+	url = https://github.com/OCA/website-themes
+[submodule "account-payment-adhoc"]
+	path = account-payment-adhoc
+	url = https://github.com/ingadhoc/account-payment
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/itpp-labs/misc-addons.git
+[submodule "mail-addons"]
+	path = mail-addons
+	url = https://github.com/itpp-labs/mail-addons
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/itpp-labs/pos-addons
+[submodule "sync-addons"]
+	path = sync-addons
+	url = https://github.com/itpp-labs/sync-addons
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/itpp-labs/access-addons
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/itpp-labs/website-addons
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/OCA/product-pack
+[submodule "role-policy"]
+	path = role-policy
+	url = https://github.com/OCA/role-policy
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/OCA/search-engine
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract
+[submodule "odoo-addons"]
+	path = odoo-addons
+	url = https://github.com/cormaza/odoo-addons
