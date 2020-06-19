@@ -181,3 +181,6 @@
 [submodule "website-themes"]
 	path = website-themes
 	url = https://github.com/OCA/website-themes
+[submodule "account-payment-adhoc"]
+	path = account-payment-adhoc
+	url = https://github.com/ingadhoc/account-payment
