@@ -202,3 +202,12 @@
 [submodule "website-addons"]
 	path = website-addons
 	url = https://github.com/itpp-labs/website-addons
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/OCA/product-pack
+[submodule "role-policy"]
+	path = role-policy
+	url = https://github.com/OCA/role-policy
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/OCA/search-engine
