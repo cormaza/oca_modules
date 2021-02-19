@@ -211,3 +211,6 @@
 [submodule "search-engine"]
 	path = search-engine
 	url = https://github.com/OCA/search-engine
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract
