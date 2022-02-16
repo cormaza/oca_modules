@@ -214,3 +214,6 @@
 [submodule "contract"]
 	path = contract
 	url = https://github.com/OCA/contract
+[submodule "odoo-addons"]
+        path = odoo-addons
+        url = https://github.com/cormaza/odoo-addons
