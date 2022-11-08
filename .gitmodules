@@ -181,27 +181,6 @@
 [submodule "website-themes"]
 	path = website-themes
 	url = https://github.com/OCA/website-themes
-[submodule "account-payment-adhoc"]
-	path = account-payment-adhoc
-	url = https://github.com/ingadhoc/account-payment
-[submodule "misc-addons"]
-	path = misc-addons
-	url = https://github.com/itpp-labs/misc-addons.git
-[submodule "mail-addons"]
-	path = mail-addons
-	url = https://github.com/itpp-labs/mail-addons
-[submodule "pos-addons"]
-	path = pos-addons
-	url = https://github.com/itpp-labs/pos-addons
-[submodule "sync-addons"]
-	path = sync-addons
-	url = https://github.com/itpp-labs/sync-addons
-[submodule "access-addons"]
-	path = access-addons
-	url = https://github.com/itpp-labs/access-addons
-[submodule "website-addons"]
-	path = website-addons
-	url = https://github.com/itpp-labs/website-addons
 [submodule "product-pack"]
 	path = product-pack
 	url = https://github.com/OCA/product-pack
